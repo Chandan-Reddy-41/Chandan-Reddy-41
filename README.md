@@ -1,5 +1,5 @@
 # Hi! I'm Moola Chandan Reddy 👋
-### Data Analyst | Data Scientist | AI Engineer
+### Data Analyst | Data Science & AI
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **Automated News Event Discovery** using Transformers.
