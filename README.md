@@ -20,7 +20,7 @@
 
 I'm a **Data Analyst** and aspiring **Data Scientist**, currently working as a **Data Science Intern at Rubixe AI Solutions**, where I build and evaluate machine learning and deep learning models on real-world problems — independently and as part of a project team.
 
-My background bridges a **Commerce degree with a Computer Applications specialization** — a combination I use to connect technical modeling work with business context and decision-making, rather than treating them as separate skill sets.
+My background bridges a **Graduate degree with a Computer Applications specialization** — a combination I use to connect technical modeling work with business context and decision-making, rather than treating them as separate skill sets.
 
 I work across the full data lifecycle — EDA, feature engineering, and preprocessing through model building (ANN, LSTM, classical ML), evaluation, and interpretation — with a growing focus on NLP, LLMs, and Retrieval-Augmented Generation (RAG).
 
@@ -48,7 +48,7 @@ I work across the full data lifecycle — EDA, feature engineering, and preproce
 ## 🚀 Featured Projects
 
 <details>
-<summary><strong>Automated News Event Discovery</strong></summary>
+<summary><strong>News Event Discovery Timeline</strong></summary>
 <br>
 
 **Problem:** Manually tracking emerging news events across large volumes of articles is slow and inconsistent.
@@ -59,14 +59,14 @@ I work across the full data lifecycle — EDA, feature engineering, and preproce
 
 | Category | Details |
 |---|---|
-| Stack | Python, Scikit-learn, Allmini-L6-V2, Agglomerative Clustering, Pandas |
+| Stack | Python, Scikit-learn, all-MiniLM-L6-v2, Agglomerative Clustering, Pandas |
 | Scale | 1,400+ articles processed |
 | Repository | *([project link](https://github.com/Chandan-Reddy-41/Automated_News_Event_Discovery_and_Timeline_Reconstruction))* |
 
 </details>
 
 <details>
-<summary><strong>KineticFlow — Human Activity Recognition</strong></summary>
+<summary><strong>KineticFlow Human Activity Recognition</strong></summary>
 <br>
 
 **Problem:** Classify physical activity type from wearable sensor data streams.
@@ -84,7 +84,7 @@ I work across the full data lifecycle — EDA, feature engineering, and preproce
 </details>
 
 <details>
-<summary><strong>Retail Customer Intelligence: End-to-End EDA</strong></summary>
+<summary><strong>Retail Customer Intelligence EDA</strong></summary>
 <br>
 
 **Problem:** Business stakeholders lacked visibility into customer purchasing behavior, revenue concentration, and seasonal demand patterns across a large-scale retail transaction dataset.
@@ -101,7 +101,7 @@ I work across the full data lifecycle — EDA, feature engineering, and preproce
 | Statistical Analysis | RFM Segmentation, Pearson Correlation, Mann-Whitney U Test |
 | Business Impact | Customer Intelligence, Revenue Optimization, Seasonal Trend Analysis |
 | Deliverables | Executive Summary, Jupyter Notebook, Business Recommendations |
-| Repository | *(add your repo link here)* |
+| Repository | *([project link](https://github.com/Chandan-Reddy-41/Retail-Customer-Intelligence-EDA))* |
 
 </details>
 
@@ -116,7 +116,7 @@ I work across the full data lifecycle — EDA, feature engineering, and preproce
 - Worked across the ML lifecycle — EDA, feature engineering, model building, and evaluation — on applied business problems
 - Applied classical ML and deep learning approaches to practical, data-driven use cases
 
-`Python` `Scikit-learn` `TensorFlow` `EDA` `Model Evaluation`
+`Python` `Scikit-learn` `TensorFlow`  `Random Forest` `Prophet` `EDA` `Model Evaluation`
 
 <br>
 
